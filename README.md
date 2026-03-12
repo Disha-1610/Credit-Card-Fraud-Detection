@@ -30,7 +30,23 @@ The ensemble uses soft voting, which averages predicted probabilities from all m
 
 
 ## Features
+Machine learning–based fraud detection system
 
+Ensemble learning using multiple classifiers
+
+Handles highly imbalanced financial datasets
+
+Real-time transaction prediction API
+
+Backend built using FastAPI
+
+Automatic API documentation via Swagger UI
+
+Model persistence using joblib
+
+Docker-based containerization for deployment
+
+Modular project structure for scalability
 
 
 ## Tech Stack
